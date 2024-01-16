@@ -1,4 +1,4 @@
-<script setup></script>
+<script setup lang="ts"></script>
 
 <template>
   <div class="w-full flex bg-slate-300 p-4 items-center gap-2 justify-between">
